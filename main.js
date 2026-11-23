@@ -104,8 +104,8 @@
     for (var i = 0; i < N; i++) {
       var im = i ? f.cloneNode() : f, face = (i === 0 || i === N - 1);
       im.style.transform = 'translateZ(calc(var(--t) * ' + ((N / 2 - i) * 1.15).toFixed(2) + '))';
-      if (i) { im.src = 'assets/immune-symbol-side.png'; im.style.filter = 'brightness(' + (face ? .7 : (.75 + .5 * (1 - i / N)).toFixed(2)) + ')'; }
-      if (face && i) im.src = 'assets/immune-symbol-chrome.png';
+      if (i) { im.src = 'assets/immune-symbol-black-side.png'; im.style.filter = 'brightness(' + (face ? .8 : (.7 + .5 * (1 - i / N)).toFixed(2)) + ')'; }
+      if (face && i) im.src = 'assets/immune-symbol-black.png';
       if (i) sp.appendChild(im);
     }
     var hd = document.querySelector('.logo3d');
