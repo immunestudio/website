@@ -91,7 +91,7 @@
       var x1 = x * ca + z * sa, z1 = -x * sa + z * ca, y2 = y * ct - z1 * st, z2 = y * st + z1 * ct;
       var rim = Math.max(0, 1 - Math.abs(z2) / 1.15), al = .1 + .9 * Math.pow(rim, 2.2);
       // glowing red globe with a light white core on the brightest rim dots
-      ox.fillStyle = rim > .72 ? 'rgba(255,226,230,' + al.toFixed(2) + ')' : 'rgba(255,48,72,' + al.toFixed(2) + ')';
+      ox.fillStyle = rim > .72 ? 'rgba(255,226,230,' + al.toFixed(2) + ')' : 'rgba(190,40,40,' + al.toFixed(2) + ')';
       ox.beginPath(); ox.arc(c + x1 * R, c + y2 * R, (.55 + 1.1 * rim) * (s / 74), 0, 6.283); ox.fill();
     }
     if (!still) requestAnimationFrame(orb);
