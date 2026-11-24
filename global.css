@@ -10,7 +10,7 @@
 @property --a{syntax:'<angle>';inherits:false;initial-value:0deg}
 
 :root{
-  --red:#830000;--red-d:#4a0000;--red-l:#c93a3a;--rgb:131,0,0;--rgb2:205,72,72;
+  --red:#4a3220;--red-d:#1f150c;--red-l:#b08a63;--rgb:122,84,52;--rgb2:176,138,99;
   --c1:#181818;--c2:#333333;--c3:#444444;--c4:#111111;--c0:#000000;
   --text:#ffffff;--mute:rgba(255,255,255,.68);--line:rgba(255,255,255,.14);
   --display:'Poppins',system-ui,-apple-system,'Segoe UI',sans-serif;
@@ -20,14 +20,14 @@
   transition:--bg1 1.2s ease,--bg2 1.2s ease,--glow 1.2s ease,--gx 1.2s ease,--gy 1.2s ease;
 }
 /* one backdrop per section — always black-based, with a red or white glow */
-html[data-sec="intro"]   {--bg1:#000;   --bg2:#0c0202;--glow:rgba(131,0,0,0.26);--gx:50%;--gy:55%}
-html[data-sec="services"]{--bg1:#0f0000;--bg2:#000;   --glow:rgba(131,0,0,0.48);--gx:12%;--gy:38%}
+html[data-sec="intro"]   {--bg1:#000;   --bg2:#0f0905;--glow:rgba(131,0,0,0.26);--gx:50%;--gy:55%}
+html[data-sec="services"]{--bg1:#140d07;--bg2:#000;   --glow:rgba(131,0,0,0.48);--gx:12%;--gy:38%}
 html[data-sec="work"]    {--bg1:#000;   --bg2:#0a0a0a;--glow:rgba(255,255,255,.08);--gx:50%;--gy:0%}
-html[data-sec="results"] {--bg1:#3a0000;--bg2:#000;   --glow:rgba(131,0,0,0.64);--gx:50%;--gy:100%}
+html[data-sec="results"] {--bg1:#2a1a0e;--bg2:#000;   --glow:rgba(131,0,0,0.64);--gx:50%;--gy:100%}
 html[data-sec="process"] {--bg1:#000;   --bg2:#060606;--glow:rgba(255,255,255,.07);--gx:88%;--gy:18%}
-html[data-sec="pricing"] {--bg1:#220000;--bg2:#000;   --glow:rgba(131,0,0,0.51);--gx:50%;--gy:15%}
+html[data-sec="pricing"] {--bg1:#21150b;--bg2:#000;   --glow:rgba(131,0,0,0.51);--gx:50%;--gy:15%}
 html[data-sec="faq"]     {--bg1:#000;   --bg2:#090909;--glow:rgba(131,0,0,0.19);--gx:8%; --gy:85%}
-html[data-sec="contact"] {--bg1:#2e0000;--bg2:#000;   --glow:rgba(131,0,0,0.61);--gx:50%;--gy:92%}
+html[data-sec="contact"] {--bg1:#281a0f;--bg2:#000;   --glow:rgba(131,0,0,0.61);--gx:50%;--gy:92%}
 html[data-sec="footer"]  {--bg1:#000;   --bg2:#000;   --glow:rgba(var(--rgb),0.16);--gx:50%;--gy:100%}
 
 *{box-sizing:border-box;margin:0}
@@ -93,7 +93,7 @@ header.top{position:relative;overflow:hidden;min-height:94vh;display:flex;align-
 .hero{position:relative;z-index:1;padding-top:124px;padding-bottom:80px;pointer-events:none}
 .hero a,.hero .btn,.hero-strip{pointer-events:auto}
 .hero h1{font-size:clamp(38px,6.2vw,84px);line-height:1.06;letter-spacing:-.035em;margin:22px 0;max-width:13ch;color:#fff;text-shadow:0 4px 40px rgba(0,0,0,.6)}
-.hero h1 em{font-style:normal;background:linear-gradient(100deg,#e05555,#b01a1a 50%,var(--red));-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-box-decoration-break:clone;box-decoration-break:clone;text-shadow:none}
+.hero h1 em{font-style:normal;background:linear-gradient(100deg,#c9a47c,#a07850 50%,#7a5434);-webkit-background-clip:text;background-clip:text;color:transparent;-webkit-box-decoration-break:clone;box-decoration-break:clone;text-shadow:none}
 .hero p{color:rgba(255,255,255,.74);max-width:52ch;font-size:17px;margin-bottom:30px}
 .cta-row{display:flex;gap:12px;flex-wrap:wrap}
 .hero-strip{display:flex;flex-wrap:wrap;margin-top:46px;max-width:660px;border-radius:22px;border:1px solid var(--line);background:rgba(255,255,255,.05);backdrop-filter:blur(14px);box-shadow:inset 0 1px 0 rgba(255,255,255,.1),0 24px 60px rgba(0,0,0,.5)}
@@ -143,7 +143,7 @@ header.top{position:relative;overflow:hidden;min-height:94vh;display:flex;align-
 .plan ul{list-style:none;padding:0;margin:18px 0 24px;display:grid;gap:10px;flex:1}
 .plan li{color:var(--mute);font-size:14.5px;padding-left:24px;position:relative}
 .plan li::before{content:"";position:absolute;left:0;top:8px;width:10px;height:6px;border-left:2px solid var(--red);border-bottom:2px solid var(--red);transform:rotate(-45deg)}
-.plan.hot{--text:#fff;--mute:rgba(255,255,255,.82);background:linear-gradient(145deg,rgba(var(--rgb),.9),rgba(74,0,0,.62));color:#fff;border-color:transparent;box-shadow:0 24px 60px rgba(var(--rgb),0.56),0 20px 44px rgba(0,0,0,.45)}
+.plan.hot{--text:#fff;--mute:rgba(255,255,255,.82);background:linear-gradient(145deg,rgba(var(--rgb),.9),rgba(31,21,12,.7));color:#fff;border-color:transparent;box-shadow:0 24px 60px rgba(var(--rgb),0.56),0 20px 44px rgba(0,0,0,.45)}
 .plan.hot h3,.plan.hot li,.plan.hot .pr small{color:rgba(255,255,255,.84)}
 .plan.hot li::before{border-color:#fff}
 .plan.hot .btn{background:#111;color:#fff;border-color:#111}
@@ -326,7 +326,7 @@ main.sub{padding:130px 0 50px;min-height:82vh;display:flex;align-items:center;ov
 /* ---------- services cards (dark glass, white text) ---------- */
 .svc-sec{position:relative;overflow:hidden}
 .svc-sec .wrap{position:relative;z-index:1}
-.svc-bg{position:absolute;left:50%;top:58%;width:min(1100px,130vw);aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;opacity:.6;pointer-events:none;background:repeating-conic-gradient(#3a0000 0 3deg,#000 3deg 7deg);-webkit-mask-image:radial-gradient(closest-side,transparent 52%,#000 54%,#000 74%,transparent 78%);mask-image:radial-gradient(closest-side,transparent 52%,#000 54%,#000 74%,transparent 78%);animation:rot 90s linear infinite}
+.svc-bg{position:absolute;left:50%;top:58%;width:min(1100px,130vw);aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;opacity:.6;pointer-events:none;background:repeating-conic-gradient(#2a1c10 0 3deg,#000 3deg 7deg);-webkit-mask-image:radial-gradient(closest-side,transparent 52%,#000 54%,#000 74%,transparent 78%);mask-image:radial-gradient(closest-side,transparent 52%,#000 54%,#000 74%,transparent 78%);animation:rot 90s linear infinite}
 .svg{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:14px}
 .sv{grid-column:span 3;position:relative;min-height:350px;padding:18px;display:flex;flex-direction:column;justify-content:space-between;border-radius:16px;border:1px solid var(--line);background:linear-gradient(180deg,rgba(80,82,87,.32),rgba(20,21,24,.84));backdrop-filter:blur(8px);overflow:hidden;transition:transform .3s,border-color .3s,box-shadow .3s}
 .sv:nth-child(n+5){grid-column:span 4}
@@ -462,11 +462,6 @@ main.sub{padding:130px 0 50px;min-height:82vh;display:flex;align-items:center;ov
 
 /* ---------- team page: adds #1F150C (warm dark brown) next to the red/black/white ---------- */
 .team{--brown:#1f150c;--brown-l:#4a3220;--brown-d:#150e08}
-.team .bgfx{background:
-  radial-gradient(48% 52% at 70% 46%,rgba(31,21,12,1),rgba(31,21,12,0) 78%),
-  radial-gradient(60% 55% at 6% 100%,#1f150c,rgba(31,21,12,0) 75%),
-  radial-gradient(70% 60% at var(--gx) var(--gy),var(--glow),transparent 72%),
-  linear-gradient(180deg,#120b06,#000 70%)}
 /* a brown plate behind the portrait */
 .team .stage::before{content:"";position:absolute;inset:-14%;border-radius:50%;pointer-events:none;
   background:radial-gradient(closest-side,#1f150c 64%,rgba(31,21,12,.55) 80%,rgba(31,21,12,0));box-shadow:0 0 90px rgba(31,21,12,.9)}
@@ -488,7 +483,6 @@ main.sub{padding:130px 0 50px;min-height:82vh;display:flex;align-items:center;ov
 /* ---------- team page: fully dark brown, no red ---------- */
 .team{--red:#4a3220;--red-d:#1f150c;--red-l:#b08a63;--rgb:122,84,52;--rgb2:176,138,99}
 html:has(body.team){background:#000}
-.team .bgfx{background:linear-gradient(180deg,#000,#050302)}
 .team .stage::before{background:radial-gradient(closest-side,#2a1c10 64%,rgba(42,28,16,.55) 80%,rgba(42,28,16,0));box-shadow:0 0 90px rgba(42,28,16,.9)}
 .team .pill,.team .nav.solid .pill{background:linear-gradient(135deg,rgba(21,14,8,.9),rgba(44,30,18,.74) 55%,rgba(21,14,8,.88))}
 .team .ddin{background:linear-gradient(160deg,rgba(21,14,8,.94),rgba(44,30,18,.86))}
@@ -510,7 +504,7 @@ main.sub.blog{display:block;min-height:0;padding:128px 0 60px}
 .fl button.on{background:var(--red);border-color:rgba(var(--rgb2),.7);font-weight:600;box-shadow:0 0 22px rgba(var(--rgb),.6)}
 .ngrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .nc{display:flex;flex-direction:column;overflow:hidden;border-radius:18px;text-decoration:none;color:inherit;animation:cbin .5s cubic-bezier(.2,.8,.2,1) backwards}
-.nc .th{position:relative;aspect-ratio:16/9;overflow:hidden;background:linear-gradient(135deg,#1c0505,#050505)}
+.nc .th{position:relative;aspect-ratio:16/9;overflow:hidden;background:linear-gradient(135deg,#1f150c,#050505)}
 .nc .th img{position:absolute;inset:0;width:100%;height:100%}
 .nc .ph{object-fit:contain;padding:26%;opacity:.3}
 .nc .pic{object-fit:cover;transition:transform .7s cubic-bezier(.2,.8,.2,1)}
