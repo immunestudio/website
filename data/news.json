@@ -1,8 +1,44 @@
 {
- "updated": "2026-11-25T00:50:01.616575+00:00",
+ "updated": "2026-11-25T06:58:47.228357+00:00",
  "items": [
   {
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "title": "Photoshop’s latest AI features are generating some controversy",
+   "link": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+   "source": "DPReview",
+   "date": "2026-11-25T05:15:51+00:00",
+   "summary": "The New York Times is requiring freelance photographers to stick to older versions of the software.",
+   "img": "https://www.dpreview.com/wp-content/uploads/2026/08/m_gi_adobe_photoshop_wordmark.jpeg",
+   "cat": "Cameras"
+  },
+  {
+   "title": "DJI’s dual-camera Air 3 hits its lowest price of 2026",
+   "link": "https://dronedj.com/2026/11/24/dji-air-3-drone-deal/",
+   "source": "DroneDJ",
+   "date": "2026-11-25T05:14:10+00:00",
+   "summary": "If you’ve been waiting for a good reason to upgrade your drone, this Black Friday might be the moment to stop waiting. The DJI Air 3 (DJI RC-N2) has dropped to $899 …",
+   "img": "https://dronedj.com/wp-content/uploads/sites/2/2024/06/dji-air-3-drone-buy-now-specs.jpg?quality=82&#038;strip=all&#038;w=1200",
+   "cat": "Drones"
+  },
+  {
+   "title": "Insta360 wants everyone to tell a better ski season story",
+   "link": "https://dronedj.com/2026/11/24/insta360-x6-winter-ski-update/",
+   "source": "DroneDJ",
+   "date": "2026-11-25T02:53:16+00:00",
+   "summary": "There’s something special about looking back at a ski trip. The runs you finally managed to conquer, the friends who kept you company, the spectacular mountain views…",
+   "img": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/Insta360-X6-winter-ski-update.jpg?quality=82&#038;strip=all&#038;w=1200",
+   "cat": "Drones"
+  },
+  {
+   "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+   "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+   "source": "The Verge",
+   "date": "2026-11-25T01:00:00+00:00",
+   "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
    "source": "TechCrunch",
    "date": "2026-11-25T00:12:02+00:00",
@@ -15,7 +51,7 @@
    "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
    "source": "TechCrunch",
    "date": "2026-11-25T00:10:27+00:00",
-   "summary": "The New York Post says that, in an exclusive interview, the President said that pardoning the Nvidia co-founder is \"an option,\" but not one that he thought he would need…",
+   "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that…",
    "img": "",
    "cat": "Tech and AI"
   },
@@ -155,15 +191,6 @@
    "cat": "Cameras"
   },
   {
-   "title": "TikTok was down",
-   "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-   "source": "The Verge",
-   "date": "2026-11-24T20:27:27+00:00",
-   "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
    "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
    "source": "Search Engine Journal",
@@ -263,15 +290,6 @@
    "cat": "Cameras"
   },
   {
-   "title": "The Nikon ZR’s first big update is finally here",
-   "link": "https://www.dpreview.com/news/nikon-zr-v2-update-release-announcement/",
-   "source": "DPReview",
-   "date": "2026-11-24T17:10:12+00:00",
-   "summary": "Firmware V2 for the camera is still scheduled to release by the end of the year,",
-   "img": "https://www.dpreview.com/wp-content/uploads/2020/08/0337761917-product-photos-nikon_zr_z_cinema_logo.jpeg",
-   "cat": "Cameras"
-  },
-  {
    "title": "From Drone Video to 3D Models: SkyeBrowse Offers Black Friday Savings",
    "link": "https://dronelife.com/2026/11/24/skyebrowse-black-friday-sale-drone-3d-modeling/",
    "source": "DroneLife",
@@ -326,15 +344,6 @@
    "cat": "Marketing"
   },
   {
-   "title": "Insta360 wants everyone to tell a better ski season story",
-   "link": "https://dronedj.com/2026/11/24/insta360-x6-winter-ski-update/",
-   "source": "DroneDJ",
-   "date": "2026-11-24T14:53:16+00:00",
-   "summary": "There’s something special about looking back at a ski trip. The runs you finally managed to conquer, the friends who kept you company, the spectacular mountain views…",
-   "img": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/Insta360-X6-winter-ski-update.jpg?quality=82&#038;strip=all&#038;w=1200",
-   "cat": "Drones"
-  },
-  {
    "title": "Testing the Limits of Precision Navigation Through Flying Car Racing",
    "link": "https://dronelife.com/2026/11/24/flying-car-racing-precision-navigation/",
    "source": "DroneLife",
@@ -353,11 +362,11 @@
    "cat": "Marketing"
   },
   {
-   "title": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+   "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
    "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T13:00:08+00:00",
-   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post What Bing’s…",
+   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI…",
    "img": "",
    "cat": "Marketing"
   },
@@ -407,11 +416,11 @@
    "cat": "Drones"
   },
   {
-   "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+   "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
    "source": "Search Engine Journal",
    "date": "2026-11-23T22:52:42+00:00",
-   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit’s AEO…",
+   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags…",
    "img": "",
    "cat": "Marketing"
   },
@@ -476,15 +485,6 @@
    "date": "2026-11-22T07:21:10+00:00",
    "summary": "Some drones are built for professional filmmakers. Others are designed for people who already know their way around a joystick. And then there’s the DJI Flip, a drone…",
    "img": "https://dronedj.com/wp-content/uploads/sites/2/2025/03/dji-flip-best-beginner-drone.jpg?quality=82&#038;strip=all&#038;w=1200",
-   "cat": "Drones"
-  },
-  {
-   "title": "SkyeBrowse adds photorealism to drone 3D models, speeds up processing 3X",
-   "link": "https://dronedj.com/2026/11/20/drone-3d-model-skyebrowse-realistic/",
-   "source": "DroneDJ",
-   "date": "2026-11-21T07:24:05+00:00",
-   "summary": "SkyeBrowse wants your drone footage to look a lot more like reality. The 3D mapping platform has announced Realistic 3D, a major update that promises 3X faster…",
-   "img": "https://dronedj.com/wp-content/uploads/sites/2/2026/11/drone-3d-model-SkyeBrowse-Realistic.jpg?quality=82&#038;strip=all&#038;w=1200",
    "cat": "Drones"
   },
   {
