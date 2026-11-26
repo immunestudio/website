@@ -1,9 +1,207 @@
 {
- "updated": "2026-11-25T18:40:14.485206+00:00",
+ "updated": "2026-11-26T00:49:00.554860+00:00",
  "items": [
   {
+   "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+   "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+   "source": "The Verge",
+   "date": "2026-11-26T00:04:34+00:00",
+   "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+   "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+   "source": "The Verge",
+   "date": "2026-11-25T23:56:44+00:00",
+   "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T22:44:32+00:00",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "source": "The Verge",
+   "date": "2026-11-25T21:51:26+00:00",
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&#038;strip=all&#038;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "The Verge’s 2026 holiday gift guide for travelers",
+   "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+   "source": "The Verge",
+   "date": "2026-11-25T21:48:00+00:00",
+   "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T20:56:44+00:00",
+   "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its…",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Black Friday 2026: photo gear and software deals that are actually worth checking out",
+   "link": "https://www.dpreview.com/news/black-friday-2026-photo-gear-and-software-deals-that-are-actually-worth-checking-out/",
+   "source": "DPReview",
+   "date": "2026-11-25T20:47:47+00:00",
+   "summary": "Some Black Friday deals started early, and some aren't as good as they look. Here are the ones worth buying, checked against past prices.",
+   "img": "https://www.dpreview.com/wp-content/uploads/2026/11/gn-black-friday-product-lead.jpg",
+   "cat": "Cameras"
+  },
+  {
+   "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+   "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+   "source": "The Verge",
+   "date": "2026-11-25T20:31:48+00:00",
+   "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T20:03:27+00:00",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Nikon Z5IIC in-depth review: capability over compactness",
+   "link": "https://www.dpreview.com/reviews/nikon-z5iic-review-capability-over-compactness/",
+   "source": "DPReview",
+   "date": "2026-11-25T20:01:04+00:00",
+   "summary": "The Nikon Z5IIC is short the Z5II's viewfinder but not much else has been cut to reduce its size and price",
+   "img": "https://www.dpreview.com/wp-content/uploads/2026/09/PI_Nikon_Z5IIC_lead_image.jpg",
+   "cat": "Cameras"
+  },
+  {
+   "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did via @sejournal, @slobodanmanic",
+   "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-25T20:00:32+00:00",
+   "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal. The post AI Shopping Agents Bought A Fake…",
+   "img": "",
+   "cat": "Marketing"
+  },
+  {
+   "title": "What Was David Fincher's 'Star Wars' Pitch?",
+   "link": "https://nofilmschool.com/david-fincher-star-wars-2678528463",
+   "source": "No Film School",
+   "date": "2026-11-25T20:00:03+00:00",
+   "summary": "What's your white whale when it comes to filmmaking? The one project you'd do anything to be a part of, or the IP you'd pull off a heist to get your hands on? For David…",
+   "img": "https://nofilmschool.com/media-library/what-was-david-fincher-s-star-wars-pitch.jpg?id=68771082&width=980",
+   "cat": "Cameras"
+  },
+  {
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T19:54:57+00:00",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T19:54:32+00:00",
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+   "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+   "source": "The Verge",
+   "date": "2026-11-25T19:45:51+00:00",
+   "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T19:44:24+00:00",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate…",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "The State of Indie Producing and Financing Plus AFM '26 Takeaways",
+   "link": "https://nofilmschool.com/state-of-indie-producing-financing",
+   "source": "No Film School",
+   "date": "2026-11-25T19:30:03+00:00",
+   "summary": "In this episode of the No Film School Podcast , independent film producer Stephen Mastrocola joins host GG Hawkins to discuss the current state of indie film financing…",
+   "img": "https://nofilmschool.com/media-library/money.jpg?id=67635014&width=980",
+   "cat": "Cameras"
+  },
+  {
+   "title": "1Password breach leaked customer names and emails, but not passwords",
+   "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+   "source": "The Verge",
+   "date": "2026-11-25T19:10:15+00:00",
+   "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information…",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "One of Sigma’s Best Zoom Lenses Gets a Nice Holiday Savings Deal With a $200 Discount",
+   "link": "https://nofilmschool.com/sigma-lens-holiday-savings",
+   "source": "No Film School",
+   "date": "2026-11-25T19:00:02+00:00",
+   "summary": "The holidays are dangerous, man. Not only do you usually have lots of time to sit around and look online for new cameras and gear, but you also have lots of great…",
+   "img": "https://nofilmschool.com/media-library/sigma-24-70mm-f-2-8-camera-lens-pictured-beside-its-on-off-switch.jpg?id=68770431&width=980",
+   "cat": "Cameras"
+  },
+  {
+   "title": "Pentagon Budgets Up to $500 Million for Extended Range Drone Strike Program",
+   "link": "https://dronelife.com/2026/11/25/pentagon-extended-range-strike-drone-program/",
+   "source": "DroneLife",
+   "date": "2026-11-25T18:55:07+00:00",
+   "summary": "New Defense Innovation Unit solicitation emphasizes affordability, production capacity and technology maturity The Defense Innovation Unit (DIU) has opened a new…",
+   "img": "",
+   "cat": "Drones"
+  },
+  {
+   "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+   "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+   "source": "TechCrunch",
+   "date": "2026-11-25T18:49:52+00:00",
+   "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+   "img": "",
+   "cat": "Tech and AI"
+  },
+  {
+   "title": "The Best Early Black Friday Photo and Camera Deals Available Now",
+   "link": "https://petapixel.com/2026/11/25/the-best-early-black-friday-photo-and-camera-deals-available-now/",
+   "source": "PetaPixel",
+   "date": "2026-11-25T18:41:35+00:00",
+   "summary": "Although Black Friday isn't quite here yet, plenty of great photography deals are already live. Here are some of the best offers available right now. [ Read More ]",
+   "img": "https://petapixel.com/assets/uploads/2026/11/best-black-friday-deals-now-featured.jpg",
+   "cat": "Cameras"
+  },
+  {
    "title": "New UK Defense Trade Group Aims to Accelerate Adoption of Autonomous Systems",
-   "link": "https://dronelife.com/2026/11/25/new-uk-defense-trade-group-aims-to-accelerate-adoption-of-autonomous-systems/",
+   "link": "https://dronelife.com/2026/11/25/autonomous-uk-defense-drone-industry/",
    "source": "DroneLife",
    "date": "2026-11-25T18:39:21+00:00",
    "summary": "Autonomous UK brings together 16 founding members, including Dutch drone manufacturer DeltaQuad, to address barriers to testing, procurement and production. A new…",
@@ -38,15 +236,6 @@
    "cat": "Cameras"
   },
   {
-   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T18:11:46+00:00",
-   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content…",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "The New York Times Cancels Adobe, the R8 II is a Hit, and Reto Does it Again | The PetaPixel Podcast",
    "link": "https://petapixel.com/2026/11/25/the-new-york-times-cancels-adobe-the-r8-ii-is-a-hit-and-reto-does-it-again-the-petapixel-podcast/",
    "source": "PetaPixel",
@@ -74,51 +263,6 @@
    "cat": "Marketing"
   },
   {
-   "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-   "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-   "source": "The Verge",
-   "date": "2026-11-25T18:00:00+00:00",
-   "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "The loneliest peptide party in New York",
-   "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-   "source": "The Verge",
-   "date": "2026-11-25T18:00:00+00:00",
-   "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-   "source": "The Verge",
-   "date": "2026-11-25T17:44:51+00:00",
-   "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-   "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T17:36:51+00:00",
-   "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
-   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T17:35:58+00:00",
-   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state…",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "DJI is Set to Officially End Support for These 11 Products on December 1st, 2026",
    "link": "https://nofilmschool.com/dji-products-ending-service-terms",
    "source": "No Film School",
@@ -128,15 +272,6 @@
    "cat": "Drones"
   },
   {
-   "title": "X’s latest update for creators focuses on vertical video",
-   "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T17:28:29+00:00",
-   "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "\"Don't Make It a Funeral\": How Editor Christopher Cavanagh, ACE, Found the Humanity in 'Death Boom'",
    "link": "https://nofilmschool.com/death-boom-editor-christopher-cavanagh",
    "source": "No Film School",
@@ -144,24 +279,6 @@
    "summary": "Documentary editing is often described as writing in the assembly room—a process of sifting through mountains of raw footage to find an emotional spine that wasn’t on…",
    "img": "https://nofilmschool.com/media-library/death-boom-editor-christopher-cavanagh.png?id=68759865&width=980",
    "cat": "Cameras"
-  },
-  {
-   "title": "The Verge’s guide to the best gifts under $100",
-   "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-   "source": "The Verge",
-   "date": "2026-11-25T17:00:00+00:00",
-   "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-100.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "WhatsApp now lets you schedule messages in group and individual chats",
-   "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T16:57:51+00:00",
-   "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
-   "img": "",
-   "cat": "Tech and AI"
   },
   {
    "title": "This Free UK Documentary Fellowship Offers Seed Grants, Mentorship, and a £20,000 Grand Prize",
@@ -182,15 +299,6 @@
    "cat": "Drones"
   },
   {
-   "title": "Nothing offers a full look at its AI earbuds and charging case",
-   "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-   "source": "The Verge",
-   "date": "2026-11-25T16:00:59+00:00",
-   "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "The Most Heartbreaking John Candy Line in 'Planes, Trains and Automobiles' Is Also Its Most Human",
    "link": "https://nofilmschool.com/planes-trains-automobiles-like-me",
    "source": "No Film School",
@@ -209,24 +317,6 @@
    "cat": "Cameras"
   },
   {
-   "title": "Hollywood and Analog Photography Power Kodak’s Fifth Consecutive Quarter of Growth",
-   "link": "https://petapixel.com/2026/11/25/hollywood-and-analog-photography-power-kodaks-fifth-consecutive-quarter-of-growth/",
-   "source": "PetaPixel",
-   "date": "2026-11-25T15:14:52+00:00",
-   "summary": "It has now been five straight quarters of growth for the transformed, resurgent Eastman Kodak. [ Read More ]",
-   "img": "https://petapixel.com/assets/uploads/2026/11/kodak-film-header.jpg",
-   "cat": "Cameras"
-  },
-  {
-   "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
-   "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T15:08:37+00:00",
-   "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
    "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
    "source": "Search Engine Journal",
@@ -234,24 +324,6 @@
    "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending. The post ChatGPT Ads Are…",
    "img": "",
    "cat": "Marketing"
-  },
-  {
-   "title": "The Verge’s guide to affordable holiday gifts under $25",
-   "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-   "source": "The Verge",
-   "date": "2026-11-25T15:00:00+00:00",
-   "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_UNDER-25.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "Family Photographer Arrested for Allegedly Concealing Her Earnings",
-   "link": "https://petapixel.com/2026/11/25/family-photographer-arrested-for-allegedly-concealing-her-earnings/",
-   "source": "PetaPixel",
-   "date": "2026-11-25T14:30:21+00:00",
-   "summary": "A family photographer has been arrested for allegedly hiding income from her photography business to obtain more than $30,000 in food assistance benefits. [ Read More ]",
-   "img": "https://petapixel.com/assets/uploads/2026/11/family-photographer-arrest.jpg",
-   "cat": "Cameras"
   },
   {
    "title": "Army Advances STAMPEDE Drone Manufacturing Initiative",
@@ -263,42 +335,6 @@
    "cat": "Drones"
   },
   {
-   "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-   "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-   "source": "TechCrunch",
-   "date": "2026-11-25T14:20:28+00:00",
-   "summary": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
-   "img": "",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "AI-Generated Characters Are Stealing Content Creators’ Viral Videos",
-   "link": "https://petapixel.com/2026/11/25/ai-generated-characters-are-stealing-content-creators-viral-videos/",
-   "source": "PetaPixel",
-   "date": "2026-11-25T14:19:49+00:00",
-   "summary": "Content creators are increasingly discovering AI-generated versions of their videos in which almost everything is identical, except that they have been replaced by…",
-   "img": "https://petapixel.com/assets/uploads/2026/11/AI-Character-Stealing-Content-Creators-Work-Reskinning.jpg",
-   "cat": "Cameras"
-  },
-  {
-   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-   "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-   "source": "The Verge",
-   "date": "2026-11-25T14:12:33+00:00",
-   "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's…",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "cat": "Tech and AI"
-  },
-  {
-   "title": "Movity Video Platform Launched – A Vimeo Alternative with Frame-Level Search, H.265 4K Streaming, AI-Made Work Excluded",
-   "link": "https://www.cined.com/movity-video-platform-launched-a-vimeo-alternative-with-frame-level-search-h-265-4k-streaming-ai-made-work-excluded/",
-   "source": "CineD",
-   "date": "2026-11-25T14:07:27+00:00",
-   "summary": "Movity is a new video hosting and portfolio platform for filmmakers, built by cinematographer and director Arkadiy Kreslov. It combines hosting, client review, and…",
-   "img": "https://www.cined.com/content/uploads/2026/11/Cover-with-logo-300x169.jpg",
-   "cat": "Cameras"
-  },
-  {
    "title": "Pentagon Looks to Auto Industry to Scale US Drone Manufacturing",
    "link": "https://dronelife.com/2026/11/25/pentagon-auto-industry-us-drone-manufacturing/",
    "source": "DroneLife",
@@ -306,24 +342,6 @@
    "summary": "Reported talks with major manufacturers highlight the challenges of building a domestic drone supply chain. The Pentagon is reportedly exploring partnerships with major…",
    "img": "",
    "cat": "Drones"
-  },
-  {
-   "title": "Brightin Star’s Gorgeous New 35mm f/1.7 APO Lens for Leica M Has Arrived",
-   "link": "https://petapixel.com/2026/11/25/brightin-stars-gorgeous-new-35mm-f-1-7-apo-lens-for-leica-m-has-arrived/",
-   "source": "PetaPixel",
-   "date": "2026-11-25T13:58:46+00:00",
-   "summary": "Brightin Star first unveiled its new APO 35mm f/1.7 ASPH. lens for Leica M-Mount cameras at CP+ in February and then launched it on Kickstarter in August. As of today…",
-   "img": "https://petapixel.com/assets/uploads/2026/11/brightin-star-35-released-featured.jpg",
-   "cat": "Cameras"
-  },
-  {
-   "title": "Photographers Protest Australia’s Plans to Weaken Copyright Laws for AI",
-   "link": "https://petapixel.com/2026/11/25/photographers-protest-australias-plans-to-weaken-copyright-laws-for-ai/",
-   "source": "PetaPixel",
-   "date": "2026-11-25T13:51:10+00:00",
-   "summary": "Photographers have signed a statement protesting the Australian government’s plans to weaken copyright law to benefit AI companies. [ Read More ]",
-   "img": "https://petapixel.com/assets/uploads/2026/11/australia-camera.jpg",
-   "cat": "Cameras"
   },
   {
    "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
@@ -371,11 +389,11 @@
    "cat": "Marketing"
   },
   {
-   "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+   "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads via @sejournal, @gregjarboe",
    "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T20:00:04+00:00",
-   "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What…",
+   "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post A…",
    "img": "",
    "cat": "Marketing"
   },
@@ -434,15 +452,6 @@
    "cat": "Marketing"
   },
   {
-   "title": "Testing the Limits of Precision Navigation Through Flying Car Racing",
-   "link": "https://dronelife.com/2026/11/24/flying-car-racing-precision-navigation/",
-   "source": "DroneLife",
-   "date": "2026-11-24T14:50:42+00:00",
-   "summary": "A new technology partnership aims to improve precision navigation, flight control and collision avoidance under demanding flight conditions. Airspeeder has named…",
-   "img": "",
-   "cat": "Drones"
-  },
-  {
    "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/",
    "source": "Search Engine Journal",
@@ -457,15 +466,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-24T13:00:08+00:00",
    "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI…",
-   "img": "",
-   "cat": "Marketing"
-  },
-  {
-   "title": "Google’s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
-   "link": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T11:55:13+00:00",
-   "summary": "Google's expanded Personal Intelligence represents a change in the relationship between Search and SEO. The post Google’s Expansion Of Personal Intelligence Will Change…",
    "img": "",
    "cat": "Marketing"
   },
