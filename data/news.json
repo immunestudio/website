@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T00:49:00.554860+00:00",
+ "updated": "2026-11-26T06:57:13.486281+00:00",
  "items": [
+  {
+   "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T04:15:54+00:00",
+   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won’t get reports showing the prompts or intent behind their ads. The post OpenAI Isn’t Planning…",
+   "img": "",
+   "cat": "Marketing"
+  },
+  {
+   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T03:22:22+00:00",
+   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post…",
+   "img": "",
+   "cat": "Marketing"
+  },
   {
    "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
    "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
@@ -72,6 +90,15 @@
    "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private…",
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "cat": "Tech and AI"
+  },
+  {
+   "title": "New to After Effects? These Workflow Tips Can Help Editors Work Faster",
+   "link": "https://nofilmschool.com/new-to-after-effects-these-workflow-tips-can-help-editors-work-faster",
+   "source": "No Film School",
+   "date": "2026-11-25T20:30:03+00:00",
+   "summary": "You may know exactly what you want the shot to do—animate a title, add some movement, clean up a graphic—but getting there can mean digging through unfamiliar panels…",
+   "img": "https://nofilmschool.com/media-library/image.png?id=68764128&width=980",
+   "cat": "Cameras"
   },
   {
    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -308,15 +335,6 @@
    "cat": "Cameras"
   },
   {
-   "title": "The photos that inspired you most in 2026",
-   "link": "https://www.dpreview.com/articles/the-photos-that-inspired-you-most-in-2026/",
-   "source": "DPReview",
-   "date": "2026-11-25T15:29:50+00:00",
-   "summary": "From photos shot by strangers to a friend's favorite, here are the stories and photos that inspired the DPReview community in 2026.",
-   "img": "https://www.dpreview.com/wp-content/uploads/2026/11/jaberg-j.arthur-anderson-occupation-gas-mask.jpeg",
-   "cat": "Cameras"
-  },
-  {
    "title": "ChatGPT Ads Are Growing Fast – But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
    "source": "Search Engine Journal",
@@ -380,7 +398,7 @@
    "cat": "Drones"
   },
   {
-   "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+   "title": "Google Explains How To Send Feedback On A Core Update via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T22:06:57+00:00",
@@ -448,24 +466,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-24T15:00:28+00:00",
    "summary": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%. The post WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year…",
-   "img": "",
-   "cat": "Marketing"
-  },
-  {
-   "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T14:48:46+00:00",
-   "summary": "Google’s November 2026 core update finished Nov. 24, just before a holiday week that could complicate Search Console comparisons for retailers. The post Google Confirms…",
-   "img": "",
-   "cat": "Marketing"
-  },
-  {
-   "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
-   "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T13:00:08+00:00",
-   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI…",
    "img": "",
    "cat": "Marketing"
   },
