@@ -49,7 +49,7 @@
         var dx = x - mx, dy = y - my, d = Math.sqrt(dx * dx + dy * dy);
         var lift = d < 150 ? (1 - d / 150) : 0;     // dots swell near the pointer
         var r = 0.5 + k * 1.5 + lift * 1.6;
-        bx.fillStyle = lift > 0.15 ? (document.body.classList.contains('team') ? 'rgba(176,138,99,' : 'rgba(190,40,40,') + (0.3 + lift * 0.65) + ')' : 'rgba(255,255,255,' + (0.03 + k * k * 0.3) + ')';
+        bx.fillStyle = lift > 0.15 ? 'rgba(243,243,243,' + (0.3 + lift * 0.65) + ')' : 'rgba(255,255,255,' + (0.03 + k * k * 0.3) + ')';
         bx.beginPath(); bx.arc(x, y + (z - 1) * 7, r, 0, 6.283); bx.fill();
       }
     }
@@ -104,8 +104,8 @@
     for (var i = 0; i < N; i++) {
       var im = i ? f.cloneNode() : f, face = (i === 0 || i === N - 1);
       im.style.transform = 'translateZ(calc(var(--t) * ' + ((N / 2 - i) * 1.15).toFixed(2) + '))';
-      if (i) { im.src = 'assets/immune-symbol-black-side.png'; im.style.filter = 'brightness(' + (face ? .8 : (.7 + .5 * (1 - i / N)).toFixed(2)) + ')'; }
-      if (face && i) im.src = 'assets/immune-symbol-black.png';
+      if (i) { im.src = 'assets/immune-symbol-side.png'; im.style.filter = 'brightness(' + (face ? .8 : (.7 + .5 * (1 - i / N)).toFixed(2)) + ')'; }
+      if (face && i) im.src = 'assets/immune-symbol-silver.png';
       if (i) sp.appendChild(im);
     }
     var hd = document.querySelector('.logo3d');
