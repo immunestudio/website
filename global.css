@@ -534,3 +534,49 @@ main.sub.blog{display:block;min-height:0;padding:128px 0 60px}
 @media(max-width:900px){.ngrid,.guides{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.ngrid,.guides{grid-template-columns:1fr}.banner{padding:26px 22px}}
 @media(prefers-reduced-motion:reduce){.bhero p,.bhero .live{opacity:1;animation:none}.nc,.nc.sk .th{animation:none}}
+
+/* ---------- contact: brand-colored channel buttons ---------- */
+.sb{--bc:#444;color:#fff;border-color:rgba(255,255,255,.18);background:linear-gradient(145deg,var(--bc),color-mix(in srgb,var(--bc) 62%,#000));box-shadow:inset 0 1px 0 rgba(255,255,255,.22)}
+.sb:hover,.sb:focus-visible{background:linear-gradient(145deg,var(--bc),color-mix(in srgb,var(--bc) 62%,#000));border-color:rgba(255,255,255,.55);color:#fff;filter:brightness(1.12);box-shadow:0 12px 28px rgba(0,0,0,.45),0 0 26px color-mix(in srgb,var(--bc) 70%,transparent)}
+.s-wa{--bc:#25d366}.s-call{--bc:#16a34a}.s-mail{--bc:#ea4335}.s-in{--bc:#0a66c2}.s-fb{--bc:#1877f2}.s-yt{--bc:#ff0000}
+.s-gh{--bc:#161b22;border-color:rgba(255,255,255,.55)}
+.s-gh:hover,.s-gh:focus-visible{background:#fff;color:#0d1117;border-color:#fff;filter:none;box-shadow:0 12px 28px rgba(0,0,0,.45),0 0 24px rgba(255,255,255,.35)}
+.s-ig{background:linear-gradient(45deg,#f09433,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888)}
+.s-ig:hover,.s-ig:focus-visible{background:linear-gradient(45deg,#f09433,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888)}
+.tm-soc .sb,.team .tm-soc .sb{--text:#fff}
+.team .tm-soc .sb:hover{border-color:rgba(255,255,255,.55)}
+
+/* ---------- contact form card: living animation ---------- */
+.form{overflow:hidden;isolation:isolate}
+.form>*{position:relative;z-index:1}
+.form::after{content:"";position:absolute;z-index:0;width:280px;height:280px;border-radius:50%;top:-90px;right:-90px;pointer-events:none;
+  background:radial-gradient(circle,rgba(var(--rgb2),.28),transparent 68%);filter:blur(14px);animation:orbA 9s ease-in-out infinite alternate}
+.form h3{background:linear-gradient(100deg,#fff 0 40%,#d8bd9d 50%,#fff 60% 100%);background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:sheenx 5s linear infinite}
+.field{transition:transform .3s}
+.field:focus-within{transform:translateX(6px)}
+.field:focus-within label{color:#fff}
+.field label{transition:color .25s}
+.form .btn.wa{animation:ringp 2.6s ease-out infinite}
+.form .btn.wa svg{animation:wiggle 3.4s ease-in-out infinite}
+@keyframes orbA{0%{transform:translate(0,0) scale(1)}100%{transform:translate(-150px,230px) scale(1.35)}}
+@keyframes sheenx{0%{background-position:150% 0}100%{background-position:-100% 0}}
+@keyframes ringp{0%{box-shadow:0 0 0 0 rgba(var(--rgb2),.55)}70%,100%{box-shadow:0 0 0 14px rgba(var(--rgb2),0)}}
+@keyframes wiggle{0%,86%,100%{transform:rotate(0)}90%{transform:rotate(-14deg)}94%{transform:rotate(12deg)}98%{transform:rotate(-6deg)}}
+@media(prefers-reduced-motion:reduce){.form::after,.form h3,.form .btn.wa,.form .btn.wa svg{animation:none}.form h3{color:#fff;background:none}}
+
+/* ---------- nav: sliding glass section indicator ---------- */
+.pill a:not(.btn),.pill .ddbtn{position:relative;z-index:1}
+.pill .ind{position:absolute;z-index:0;top:6px;bottom:6px;left:0;width:0;border-radius:999px;opacity:0;pointer-events:none;
+  background:linear-gradient(145deg,rgba(255,255,255,.2),rgba(255,255,255,.06));border:1px solid rgba(255,255,255,.34);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.4),0 0 18px rgba(var(--rgb2),.4);-webkit-backdrop-filter:blur(10px) saturate(1.5);backdrop-filter:blur(10px) saturate(1.5);
+  transition:transform .45s cubic-bezier(.2,.8,.2,1),width .45s cubic-bezier(.2,.8,.2,1),opacity .3s}
+.pill a.on:not(.btn),.pill .ddbtn.on{color:#fff}
+.ddin a.on{color:#fff;background:rgba(255,255,255,.12)}
+
+/* ---------- blogs / team: black to dark brown backdrop ---------- */
+html:not([data-sec]) .bgfx{background:linear-gradient(180deg,#000 0%,#1a110a 45%,#2a1b0f 70%,#000 100%)}
+.nc{--bc:#1f150c}
+.nc .th{background:linear-gradient(135deg,#2a1b0f,#0a0604)}
+.nc.promo{background:linear-gradient(135deg,rgba(74,50,32,.85),rgba(0,0,0,.9));border-color:rgba(var(--rgb2),.5)}
+.fl button.on{background:#4a3220;border-color:rgba(var(--rgb2),.7)}
+[hidden]{display:none!important}
